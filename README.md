@@ -1,69 +1,25 @@
-# How to Build an Answer to Earn (A2E) Platform with NextJs, TypeScript, Tailwind CSS, and Solidity
-
-Read the full tutorial here: [**>> How to Build an Answer to Earn (A2E) Platform with NextJs, TypeScript, Tailwind CSS, and Solidity**](https://daltonic.github.io)
-
-This example shows How to Build an Answer to Earn (A2E) Platform with NextJs, TypeScript, Tailwind CSS, and Solidity:
-
-![Questions](./screenshots/0.png)
-<center><figcaption>Questions</figcaption></center>
-
-![Creating Questions](./screenshots/1.png)
-<center><figcaption>Creating Questions</figcaption></center>
-
-![Questions Details](./screenshots/2.png)
-<center><figcaption>Questions Details</figcaption></center>
-
-## Technology
-
-This demo uses:
-
-- Metamask
-- Hardhat
-- Infuira
+# Description
+Tech stack:
 - NextJs
 - TypeScript
 - Tailwind CSS
-- Solidity
+- Metamask
 - EthersJs
-- Faucet
+- Hardhat
+- Truffle
+- Solidity
 
-## Running the demo
+# Demo
+Creating a question
 
-To run the demo follow these steps:
+https://github.com/zianncupcake/dapp-answertoearn/assets/100258157/4a29ecb0-85d1-400b-8510-46379aea6a18
 
-1. Clone the project with the code below.
 
-   ```sh
+Answering a question 
 
-   # Make sure you have the above prerequisites installed already!
-   git clone https://github.com/Daltonic/answer_to_earn answerToEarn
-   cd answerToEarn # Navigate to the new folder.
-   ```
 
-2. Create a `.env` file to include the following details.
-   ```sh
-    NEXT_APP_RPC_URL=http://127.0.0.1:8545/
-   ```
-3. On one terminal, run the app using:
-   ```
-    yarn install
-    yarn hardhat run scripts/deploy.js
-   ```
+https://github.com/zianncupcake/dapp-answertoearn/assets/100258157/1201d4e9-77c9-44c5-ba2b-d6b548b3d387
 
-4. On a second terminal, run the app using `yarn dev` to launch on the browser.
-   <br/>
+Winner is paid
+<img width="1436" alt="image" src="https://github.com/zianncupcake/dapp-answertoearn/assets/100258157/e17c1f8e-1173-4521-bb55-e06136ee1134">
 
-If your confuse about the installation, check out this **TUTORIAL** to see how you should run it.
-
-Questions about running the demo? [Open an issue](https://github.com/Daltonic/answer_to_earn/issues). We're here to help ✌️
-
-## Useful links
-
-- 🏠 [Website](https://daltonic.github.io/)
-- ⚽ [Metamask](https://metamask.io/)
-- 🚀 [Infuria](https://app.infura.io/dashboard/)
-- 💡 [Hardhat](https://hardhat.org/)
-- 🔥 [NextJs](https://nextjs.org/)
-- 🐻 [Solidity](https://soliditylang.org/)
-- 👀 [Ethersjs](https://docs.ethers.io/v5/)
-- ✨ [Live Demo](https://answer-to-earn.vercel.app/)
