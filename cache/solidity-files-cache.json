@@ -183,8 +183,8 @@
       ]
     },
     "/Users/ziann/Desktop/dapp-answertoearn/contracts/AnswerToEarn.sol": {
-      "lastModificationDate": 1719853823838,
-      "contentHash": "f36fcc1de6e6e3e8fa462b47387d3bdc",
+      "lastModificationDate": 1719899571059,
+      "contentHash": "2d60741763f709d3cb17b967ede50359",
       "sourceName": "contracts/AnswerToEarn.sol",
       "solcConfig": {
         "version": "0.8.17",
