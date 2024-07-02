@@ -17,9 +17,9 @@ const Header: React.FC = () => {
         className="border-b border-[#212D4A] h-[80px] w-full flex
       justify-between items-center relative mb-2 px-3 sm:px-10"
       >
-        <Link href="/">
+        {/* <Link href="/">
           <Image width="60" height="32" src={logo} alt="logo" className="ml-2 sm:ml-0" />
-        </Link>
+        </Link> */}
 
         <div
           className="h-[48px] w-[601px] border border-[#212D4A]
